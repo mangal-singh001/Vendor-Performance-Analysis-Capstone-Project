@@ -63,10 +63,12 @@ The workflow includes:
 
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
-*(Replace with actual screenshot from your Power BI dashboard)*
+
+## 📸 Dashboard Preview  
+
+![Dashboard Preview](Images/dashboard.png)  
+
 
 ---
 
