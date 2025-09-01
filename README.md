@@ -1,8 +1,3 @@
-Got it 👍 Let’s create a **README.md** file for your repo: **Vendor-Performance-Analysis-Capstone-Project**.
-Based on what you told me earlier (6 raw data files → ingestion → final dataset → EDA → dashboard), here’s a professional README draft you can directly add to your repo.
-
----
-
 # 📊 Vendor Performance Analysis – Capstone Project
 
 ## 📌 Project Overview
@@ -110,4 +105,3 @@ Vendor-Performance-Analysis-Capstone-Project/
 
 ---
 
-Would you like me to **add some emojis in section headers** (like we did in your other projects) to make it look more engaging, or keep it **professional and clean**?
