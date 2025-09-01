@@ -67,7 +67,8 @@ The workflow includes:
 
 ## 📸 Dashboard Preview  
 
-![Dashboard](Images/dashboard.png)  
+![Power BI Dashboard](Dashboard.png)
+
 
 
 ---
