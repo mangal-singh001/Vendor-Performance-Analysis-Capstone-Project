@@ -67,7 +67,7 @@ The workflow includes:
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Preview](Images/dashboard.png)  
+![Dashboard](Images/dashboard.png)  
 
 
 ---
