@@ -20,6 +20,21 @@ The workflow includes:
 * **Storage**: SQLite local database
 * **Final Dataset**: A single consolidated file used for EDA and dashboard
 
+📂 **Project Data Folder (available in this repo):**
+
+* `purchases.csv`
+* `suppliers.csv`
+* `products.csv`
+* `final_dataset.csv`
+
+☁️ **Additional Large Files (hosted on Google Drive):**
+
+* `purchase_items.csv`
+* `supplier_performance.csv`
+* `delivery_data.csv`
+
+👉 [Click here to access the additional datasets](https://drive.google.com/drive/folders/1ZPUa_nslY8xdZuBbnnJ5OJfafwMmnjEe?usp=sharing)
+
 ---
 
 ## ⚙️ Tech Stack
@@ -29,9 +44,11 @@ The workflow includes:
   * pandas, numpy – data cleaning & transformation
   * sqlite3 – database connection
   * matplotlib, seaborn – EDA visualization
+
 * **SQL** 🗄️
 
   * Database setup & queries
+
 * **Power BI** 📊
 
   * Interactive dashboard for business insights
@@ -63,13 +80,9 @@ The workflow includes:
 
 ---
 
-
-
-## 📸 Dashboard Preview  
+## 📸 Dashboard Preview
 
 ![Power BI Dashboard](Dashboard.png)
-
-
 
 ---
 
@@ -77,13 +90,20 @@ The workflow includes:
 
 ```
 Vendor-Performance-Analysis-Capstone-Project/
-│-- data/                  # Raw data files  
-│-- ingestion_db.py        # Script to ingest data into SQLite  
-│-- data_processing.py     # Script to clean & merge data  
-│-- eda.ipynb              # Exploratory Data Analysis  
-│-- dashboard.pbix         # Power BI dashboard file  
-│-- README.md              # Project documentation  
+│-- data/                  
+│   │-- purchases.csv
+│   │-- suppliers.csv
+│   │-- products.csv
+│   │-- final_dataset.csv
+│
+│-- ingestion_db.py        
+│-- data_processing.py     
+│-- eda.ipynb              
+│-- dashboard.pbix         
+│-- README.md              
 ```
+
+🔗 Large dataset files: [Google Drive Link](https://drive.google.com/drive/folders/1ZPUa_nslY8xdZuBbnnJ5OJfafwMmnjEe?usp=sharing)
 
 ---
 
@@ -107,4 +127,3 @@ Vendor-Performance-Analysis-Capstone-Project/
 ✨ *This project helped me strengthen my skills in Python, SQL, and Power BI while solving a real-world business problem.*
 
 ---
-
