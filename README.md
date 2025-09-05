@@ -29,9 +29,9 @@ The workflow includes:
 
 ☁️ **Additional Large Files (hosted on Google Drive):**
 
-* `purchase_items.csv`
-* `supplier_performance.csv`
-* `delivery_data.csv`
+* `purchases.csv`
+* `sales.csv`
+* `vendor_sales_summary.csv`
 
 👉 [Click here to access the additional datasets](https://drive.google.com/drive/folders/1ZPUa_nslY8xdZuBbnnJ5OJfafwMmnjEe?usp=sharing)
 
