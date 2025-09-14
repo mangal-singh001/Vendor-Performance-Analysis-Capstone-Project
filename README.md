@@ -122,6 +122,7 @@ Vendor-Performance-Analysis-Capstone-Project/
 * [GitHub](https://github.com/mangal-singh001)
 * [LinkedIn](https://www.linkedin.com/in/mangal-singh123/)
 
+
 ---
 
 ✨ *This project helped me strengthen my skills in Python, SQL, and Power BI while solving a real-world business problem.*
