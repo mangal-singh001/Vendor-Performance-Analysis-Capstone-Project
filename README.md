@@ -73,6 +73,7 @@ The workflow includes:
 * Late vs on-time delivery analysis
 * Cost & quality trends
 
+
 ### 4. Power BI Dashboard
 
 * KPIs: On-time delivery %, Quality rating, Purchase trends
